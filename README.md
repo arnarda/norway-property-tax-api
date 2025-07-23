@@ -1,6 +1,6 @@
 # Norway Property Tax API 🇳🇴
 
-**Complete property tax data for all 357 Norwegian municipalities** - API for the FINN Property Analyzer Chrome Extension.
+**Complete property tax data for all 357 Norwegian municipalities** - API for the Realit Property Analyser Chrome Extension.
 
 [![Data Source](https://img.shields.io/badge/Data%20Source-SSB%20(Statistics%20Norway)-blue)](https://www.ssb.no/offentlig-sektor/kommunale-finanser/artikler/kommuner-med-eiendomsskatt)
 [![License](https://img.shields.io/badge/License-Public%20Domain-green)](LICENSE)
@@ -78,7 +78,7 @@ fetch('https://arnarda.github.io/norway-property-tax-api/norwegian-municipalitie
 
 ## 🛠️ Integration
 
-This API is used by the [FINN Property Analyzer Chrome Extension](https://github.com/arnarda/finn-property-analyzer) to:
+This API is used by the [Realit Property Analyser Chrome Extension](https://github.com/arnarda/finn-property-analyzer) to:
 
 1. Detect property location from FINN.no listings
 2. Match to municipality using this data
