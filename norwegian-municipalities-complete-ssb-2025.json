@@ -1,6 +1,6 @@
 {
   "version": "2025.3-complete-ssb",
-  "lastUpdated": "2025-07-23T13:25:56.125304Z",
+  "lastUpdated": "2026-03-01",
   "source": "SSB (Statistics Norway) - https://www.ssb.no/offentlig-sektor/kommunale-finanser/artikler/kommuner-med-eiendomsskatt",
   "description": "OFFICIAL SSB property tax data for all 357 Norwegian municipalities. Tax rates are in PROMILLE (‰) as per SSB standard.",
   "total_municipalities": 322,
@@ -43,7 +43,9 @@
       "fritak_aar": 10,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3200
+      "gjennomsnittlig_skatt_2024": 3200,
+      "code": "1820",
+      "befolkning": 7465
     },
     {
       "name": "Alta",
@@ -59,7 +61,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4533
+      "gjennomsnittlig_skatt_2024": 4533,
+      "code": "5601",
+      "befolkning": 21877
     },
     {
       "name": "Alvdal",
@@ -75,7 +79,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 1847
+      "gjennomsnittlig_skatt_2024": 1847,
+      "code": "3428",
+      "befolkning": 2509
     },
     {
       "name": "Alver",
@@ -91,7 +97,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "4631",
+      "befolkning": 30169
     },
     {
       "name": "Andøy",
@@ -107,7 +115,9 @@
       "fritak_aar": 1,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 3332
+      "gjennomsnittlig_skatt_2024": 3332,
+      "code": "1871",
+      "befolkning": 4542
     },
     {
       "name": "Aremark",
@@ -123,7 +133,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4238
+      "gjennomsnittlig_skatt_2024": 4238,
+      "code": "3124",
+      "befolkning": 1346
     },
     {
       "name": "Arendal",
@@ -139,7 +151,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 5152
+      "gjennomsnittlig_skatt_2024": 5152,
+      "code": "4203",
+      "befolkning": 46568
     },
     {
       "name": "Asker",
@@ -155,7 +169,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "3203",
+      "befolkning": 100492
     },
     {
       "name": "Askvoll",
@@ -171,7 +187,9 @@
       "fritak_aar": 1,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 5313
+      "gjennomsnittlig_skatt_2024": 5313,
+      "code": "4645",
+      "befolkning": 2930
     },
     {
       "name": "Askøy",
@@ -187,7 +205,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "4627",
+      "befolkning": 30377
     },
     {
       "name": "Aukra",
@@ -203,7 +223,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "1547",
+      "befolkning": 3759
     },
     {
       "name": "Aure",
@@ -219,7 +241,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1175
+      "gjennomsnittlig_skatt_2024": 1175,
+      "code": "1576",
+      "befolkning": 3394
     },
     {
       "name": "Aurland",
@@ -235,7 +259,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3100
+      "gjennomsnittlig_skatt_2024": 3100,
+      "code": "4641",
+      "befolkning": 1836
     },
     {
       "name": "Aurskog-Høland",
@@ -251,7 +277,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2867
+      "gjennomsnittlig_skatt_2024": 2867,
+      "code": "3226",
+      "befolkning": 18314
     },
     {
       "name": "Austevoll",
@@ -267,7 +295,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "4625",
+      "befolkning": 5437
     },
     {
       "name": "Averøy",
@@ -283,7 +313,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1311
+      "gjennomsnittlig_skatt_2024": 1311,
+      "code": "1554",
+      "befolkning": 5992
     },
     {
       "name": "Balsfjord",
@@ -299,7 +331,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2167
+      "gjennomsnittlig_skatt_2024": 2167,
+      "code": "5532",
+      "befolkning": 5595
     },
     {
       "name": "Bamble",
@@ -315,7 +349,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4250
+      "gjennomsnittlig_skatt_2024": 4250,
+      "code": "4012",
+      "befolkning": 14310
     },
     {
       "name": "Bardu",
@@ -331,7 +367,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 1900
+      "gjennomsnittlig_skatt_2024": 1900,
+      "code": "5520",
+      "befolkning": 3961
     },
     {
       "name": "Batsfjord",
@@ -347,7 +385,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "1578",
+      "befolkning": 2506
     },
     {
       "name": "Bergen",
@@ -363,7 +403,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 7052
+      "gjennomsnittlig_skatt_2024": 7052,
+      "code": "4601",
+      "befolkning": 293709
     },
     {
       "name": "Berlevåg",
@@ -379,7 +421,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5630",
+      "befolkning": 890
     },
     {
       "name": "Bindal",
@@ -395,7 +439,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2917
+      "gjennomsnittlig_skatt_2024": 2917,
+      "code": "1811",
+      "befolkning": 1374
     },
     {
       "name": "Bjørnafjorden",
@@ -411,7 +457,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "4624",
+      "befolkning": 26342
     },
     {
       "name": "Bodø",
@@ -427,7 +475,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4267
+      "gjennomsnittlig_skatt_2024": 4267,
+      "code": "1804",
+      "befolkning": 53725
     },
     {
       "name": "Bremanger",
@@ -443,7 +493,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3133
+      "gjennomsnittlig_skatt_2024": 3133,
+      "code": "4648",
+      "befolkning": 3361
     },
     {
       "name": "Brønnøy",
@@ -459,7 +511,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3133
+      "gjennomsnittlig_skatt_2024": 3133,
+      "code": "1813",
+      "befolkning": 7838
     },
     {
       "name": "Bykle",
@@ -475,7 +529,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3633
+      "gjennomsnittlig_skatt_2024": 3633,
+      "code": "4222",
+      "befolkning": 1039
     },
     {
       "name": "Bærum",
@@ -491,7 +547,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 6267
+      "gjennomsnittlig_skatt_2024": 6267,
+      "code": "3201",
+      "befolkning": 132358
     },
     {
       "name": "Drammen",
@@ -507,7 +565,9 @@
       "fritak_aar": 3,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 4800
+      "gjennomsnittlig_skatt_2024": 4800,
+      "code": "3301",
+      "befolkning": 105452
     },
     {
       "name": "Dyrøy",
@@ -523,7 +583,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5528",
+      "befolkning": 1069
     },
     {
       "name": "Eidfjord",
@@ -539,7 +601,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "4619",
+      "befolkning": 967
     },
     {
       "name": "Eidskog",
@@ -555,7 +619,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 3533
+      "gjennomsnittlig_skatt_2024": 3533,
+      "code": "3416",
+      "befolkning": 6059
     },
     {
       "name": "Eidsvoll",
@@ -571,7 +637,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2467
+      "gjennomsnittlig_skatt_2024": 2467,
+      "code": "3240",
+      "befolkning": 28352
     },
     {
       "name": "Eigersund",
@@ -587,7 +655,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "1101",
+      "befolkning": 15375
     },
     {
       "name": "Elverum",
@@ -603,7 +673,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2900
+      "gjennomsnittlig_skatt_2024": 2900,
+      "code": "3420",
+      "befolkning": 21899
     },
     {
       "name": "Enebakk",
@@ -619,7 +691,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3733
+      "gjennomsnittlig_skatt_2024": 3733,
+      "code": "3220",
+      "befolkning": 11549
     },
     {
       "name": "Engerdal",
@@ -635,7 +709,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3000
+      "gjennomsnittlig_skatt_2024": 3000,
+      "code": "3425",
+      "befolkning": 1326
     },
     {
       "name": "Etne",
@@ -651,7 +727,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "4611",
+      "befolkning": 4093
     },
     {
       "name": "Evenes",
@@ -667,7 +745,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3067
+      "gjennomsnittlig_skatt_2024": 3067,
+      "code": "1853",
+      "befolkning": 1362
     },
     {
       "name": "Evje og Hornnes",
@@ -683,7 +763,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "4219",
+      "befolkning": 3828
     },
     {
       "name": "Farsund",
@@ -699,7 +781,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4933
+      "gjennomsnittlig_skatt_2024": 4933,
+      "code": "4206",
+      "befolkning": 9880
     },
     {
       "name": "Fauske",
@@ -715,7 +799,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3467
+      "gjennomsnittlig_skatt_2024": 3467,
+      "code": "1841",
+      "befolkning": 9805
     },
     {
       "name": "Fedje",
@@ -731,7 +817,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "4633",
+      "befolkning": 521
     },
     {
       "name": "Fet",
@@ -747,7 +835,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1333
+      "gjennomsnittlig_skatt_2024": 1333,
+      "code": "0227",
+      "befolkning": 0
     },
     {
       "name": "Finsås",
@@ -763,7 +853,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "3218",
+      "befolkning": 22344
     },
     {
       "name": "Fitjar",
@@ -779,7 +871,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "4615",
+      "befolkning": 3208
     },
     {
       "name": "Fjaler",
@@ -795,7 +889,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4300
+      "gjennomsnittlig_skatt_2024": 4300,
+      "code": "4646",
+      "befolkning": 2924
     },
     {
       "name": "Flakstad",
@@ -811,7 +907,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4333
+      "gjennomsnittlig_skatt_2024": 4333,
+      "code": "1859",
+      "befolkning": 1266
     },
     {
       "name": "Flatanger",
@@ -827,7 +925,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "5049",
+      "befolkning": 1121
     },
     {
       "name": "Flekkefjord",
@@ -843,7 +943,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4533
+      "gjennomsnittlig_skatt_2024": 4533,
+      "code": "4207",
+      "befolkning": 9329
     },
     {
       "name": "Flora",
@@ -859,7 +961,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "1401",
+      "befolkning": 0
     },
     {
       "name": "Folldal",
@@ -875,7 +979,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3429",
+      "befolkning": 1540
     },
     {
       "name": "Fredrikstad",
@@ -891,7 +997,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2933
+      "gjennomsnittlig_skatt_2024": 2933,
+      "code": "3107",
+      "befolkning": 85862
     },
     {
       "name": "Frøya",
@@ -907,7 +1015,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1467
+      "gjennomsnittlig_skatt_2024": 1467,
+      "code": "5014",
+      "befolkning": 5655
     },
     {
       "name": "Fusa",
@@ -923,7 +1033,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2400
+      "gjennomsnittlig_skatt_2024": 2400,
+      "code": "1241",
+      "befolkning": 0
     },
     {
       "name": "Færder",
@@ -939,7 +1051,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1600
+      "gjennomsnittlig_skatt_2024": 1600,
+      "code": "3911",
+      "befolkning": 27569
     },
     {
       "name": "Førde",
@@ -955,7 +1069,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4467
+      "gjennomsnittlig_skatt_2024": 4467,
+      "code": "1432",
+      "befolkning": 0
     },
     {
       "name": "Gildeskål",
@@ -971,7 +1087,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3067
+      "gjennomsnittlig_skatt_2024": 3067,
+      "code": "1838",
+      "befolkning": 2003
     },
     {
       "name": "Giske",
@@ -987,7 +1105,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 5200
+      "gjennomsnittlig_skatt_2024": 5200,
+      "code": "1532",
+      "befolkning": 8773
     },
     {
       "name": "Gjerdrum",
@@ -1003,7 +1123,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1333
+      "gjennomsnittlig_skatt_2024": 1333,
+      "code": "3230",
+      "befolkning": 7453
     },
     {
       "name": "Gjøvik",
@@ -1019,7 +1141,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 3000
+      "gjennomsnittlig_skatt_2024": 3000,
+      "code": "3407",
+      "befolkning": 31175
     },
     {
       "name": "Gol",
@@ -1035,7 +1159,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 1400
+      "gjennomsnittlig_skatt_2024": 1400,
+      "code": "3324",
+      "befolkning": 4888
     },
     {
       "name": "Gran",
@@ -1051,7 +1177,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2467
+      "gjennomsnittlig_skatt_2024": 2467,
+      "code": "3446",
+      "befolkning": 13660
     },
     {
       "name": "Grimstad",
@@ -1067,7 +1195,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 5667
+      "gjennomsnittlig_skatt_2024": 5667,
+      "code": "4202",
+      "befolkning": 25419
     },
     {
       "name": "Grong",
@@ -1083,7 +1213,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2767
+      "gjennomsnittlig_skatt_2024": 2767,
+      "code": "5045",
+      "befolkning": 2314
     },
     {
       "name": "Grue",
@@ -1099,7 +1231,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 3533
+      "gjennomsnittlig_skatt_2024": 3533,
+      "code": "3417",
+      "befolkning": 4513
     },
     {
       "name": "Gulen",
@@ -1115,7 +1249,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3333
+      "gjennomsnittlig_skatt_2024": 3333,
+      "code": "4635",
+      "befolkning": 2260
     },
     {
       "name": "Hamar",
@@ -1131,7 +1267,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 3267
+      "gjennomsnittlig_skatt_2024": 3267,
+      "code": "3403",
+      "befolkning": 33441
     },
     {
       "name": "Hamarøy",
@@ -1147,7 +1285,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "1875",
+      "befolkning": 2786
     },
     {
       "name": "Hammerfest",
@@ -1163,7 +1303,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4533
+      "gjennomsnittlig_skatt_2024": 4533,
+      "code": "5603",
+      "befolkning": 11324
     },
     {
       "name": "Haram",
@@ -1179,7 +1321,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1533
+      "gjennomsnittlig_skatt_2024": 1533,
+      "code": "1580",
+      "befolkning": 9409
     },
     {
       "name": "Hareid",
@@ -1195,7 +1339,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1400
+      "gjennomsnittlig_skatt_2024": 1400,
+      "code": "1517",
+      "befolkning": 5320
     },
     {
       "name": "Harstad",
@@ -1211,7 +1357,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4533
+      "gjennomsnittlig_skatt_2024": 4533,
+      "code": "5503",
+      "befolkning": 25167
     },
     {
       "name": "Hasvik",
@@ -1227,7 +1375,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5616",
+      "befolkning": 977
     },
     {
       "name": "Hattfjelldal",
@@ -1243,7 +1393,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "1826",
+      "befolkning": 1274
     },
     {
       "name": "Haugesund",
@@ -1259,7 +1411,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4667
+      "gjennomsnittlig_skatt_2024": 4667,
+      "code": "1106",
+      "befolkning": 38441
     },
     {
       "name": "Hemnes",
@@ -1275,7 +1429,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3067
+      "gjennomsnittlig_skatt_2024": 3067,
+      "code": "1832",
+      "befolkning": 4485
     },
     {
       "name": "Hemsedal",
@@ -1291,7 +1447,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 1400
+      "gjennomsnittlig_skatt_2024": 1400,
+      "code": "3326",
+      "befolkning": 2685
     },
     {
       "name": "Herøy (Møre og Romsdal)",
@@ -1307,7 +1465,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1400
+      "gjennomsnittlig_skatt_2024": 1400,
+      "code": "1515",
+      "befolkning": 9031
     },
     {
       "name": "Herøy (Nordland)",
@@ -1323,7 +1483,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4333
+      "gjennomsnittlig_skatt_2024": 4333,
+      "code": "1515",
+      "befolkning": 9031
     },
     {
       "name": "Hitra",
@@ -1339,7 +1501,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1467
+      "gjennomsnittlig_skatt_2024": 1467,
+      "code": "5056",
+      "befolkning": 5414
     },
     {
       "name": "Hjelmeland",
@@ -1355,7 +1519,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2133
+      "gjennomsnittlig_skatt_2024": 2133,
+      "code": "1133",
+      "befolkning": 2681
     },
     {
       "name": "Hol",
@@ -1371,7 +1537,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 1400
+      "gjennomsnittlig_skatt_2024": 1400,
+      "code": "3330",
+      "befolkning": 4527
     },
     {
       "name": "Hole",
@@ -1387,7 +1555,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "3310",
+      "befolkning": 7065
     },
     {
       "name": "Holtålen",
@@ -1403,7 +1573,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "5026",
+      "befolkning": 2048
     },
     {
       "name": "Horten",
@@ -1419,7 +1591,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1600
+      "gjennomsnittlig_skatt_2024": 1600,
+      "code": "3901",
+      "befolkning": 28039
     },
     {
       "name": "Hurdaln",
@@ -1435,7 +1609,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2467
+      "gjennomsnittlig_skatt_2024": 2467,
+      "code": "3242",
+      "befolkning": 3022
     },
     {
       "name": "Hvaler",
@@ -1451,7 +1627,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4600
+      "gjennomsnittlig_skatt_2024": 4600,
+      "code": "3110",
+      "befolkning": 4777
     },
     {
       "name": "Hyllestad",
@@ -1467,7 +1645,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4333
+      "gjennomsnittlig_skatt_2024": 4333,
+      "code": "4637",
+      "befolkning": 1281
     },
     {
       "name": "Hå",
@@ -1483,7 +1663,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "1119",
+      "befolkning": 20067
     },
     {
       "name": "Hægebostad",
@@ -1499,7 +1681,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "4226",
+      "befolkning": 1786
     },
     {
       "name": "Høyanger",
@@ -1515,7 +1699,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3333
+      "gjennomsnittlig_skatt_2024": 3333,
+      "code": "4638",
+      "befolkning": 3894
     },
     {
       "name": "Høylandet",
@@ -1531,7 +1717,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2767
+      "gjennomsnittlig_skatt_2024": 2767,
+      "code": "5046",
+      "befolkning": 1235
     },
     {
       "name": "Ibestad",
@@ -1547,7 +1735,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2600
+      "gjennomsnittlig_skatt_2024": 2600,
+      "code": "5514",
+      "befolkning": 1301
     },
     {
       "name": "Inderøy",
@@ -1563,7 +1753,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3467
+      "gjennomsnittlig_skatt_2024": 3467,
+      "code": "5053",
+      "befolkning": 7031
     },
     {
       "name": "Indre Østfold",
@@ -1579,7 +1771,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4238
+      "gjennomsnittlig_skatt_2024": 4238,
+      "code": "3118",
+      "befolkning": 47449
     },
     {
       "name": "Iveland",
@@ -1595,7 +1789,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "4218",
+      "befolkning": 1399
     },
     {
       "name": "Jevnaker",
@@ -1611,7 +1807,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "3236",
+      "befolkning": 7043
     },
     {
       "name": "Jølster",
@@ -1627,7 +1825,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "1431",
+      "befolkning": 0
     },
     {
       "name": "Karasjok",
@@ -1643,7 +1843,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5610",
+      "befolkning": 2524
     },
     {
       "name": "Karlsøy",
@@ -1659,7 +1861,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2533
+      "gjennomsnittlig_skatt_2024": 2533,
+      "code": "5534",
+      "befolkning": 2223
     },
     {
       "name": "Karmøy",
@@ -1675,7 +1879,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "1149",
+      "befolkning": 43723
     },
     {
       "name": "Kautokeino",
@@ -1691,7 +1897,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5612",
+      "befolkning": 2852
     },
     {
       "name": "Kinn",
@@ -1707,7 +1915,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "4602",
+      "befolkning": 17419
     },
     {
       "name": "Klepp",
@@ -1723,7 +1933,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "1120",
+      "befolkning": 21186
     },
     {
       "name": "Klæbu",
@@ -1739,7 +1951,9 @@
       "fritak_aar": 3,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "5030",
+      "befolkning": 0
     },
     {
       "name": "Kongsberg",
@@ -1755,7 +1969,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3267
+      "gjennomsnittlig_skatt_2024": 3267,
+      "code": "3303",
+      "befolkning": 29011
     },
     {
       "name": "Kongsvinger",
@@ -1771,7 +1987,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 3533
+      "gjennomsnittlig_skatt_2024": 3533,
+      "code": "3401",
+      "befolkning": 18109
     },
     {
       "name": "Kragerø",
@@ -1787,7 +2005,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 5333
+      "gjennomsnittlig_skatt_2024": 5333,
+      "code": "4014",
+      "befolkning": 10446
     },
     {
       "name": "Kristiansand",
@@ -1803,7 +2023,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 5667
+      "gjennomsnittlig_skatt_2024": 5667,
+      "code": "4204",
+      "befolkning": 118221
     },
     {
       "name": "Kristiansund",
@@ -1819,7 +2041,9 @@
       "fritak_aar": 2,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "1505",
+      "befolkning": 24578
     },
     {
       "name": "Krødsherad",
@@ -1835,7 +2059,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "3318",
+      "befolkning": 2235
     },
     {
       "name": "Kvam",
@@ -1851,7 +2077,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2400
+      "gjennomsnittlig_skatt_2024": 2400,
+      "code": "4622",
+      "befolkning": 8517
     },
     {
       "name": "Kvinesdal",
@@ -1867,7 +2095,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "4227",
+      "befolkning": 6163
     },
     {
       "name": "Kvinnherad",
@@ -1883,7 +2113,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "4617",
+      "befolkning": 13175
     },
     {
       "name": "Kviteseid",
@@ -1899,7 +2131,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3633
+      "gjennomsnittlig_skatt_2024": 3633,
+      "code": "4028",
+      "befolkning": 2473
     },
     {
       "name": "Kvitsøy",
@@ -1915,7 +2149,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "1144",
+      "befolkning": 570
     },
     {
       "name": "Kvæfjord",
@@ -1931,7 +2167,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2600
+      "gjennomsnittlig_skatt_2024": 2600,
+      "code": "5510",
+      "befolkning": 2852
     },
     {
       "name": "Lardal",
@@ -1947,7 +2185,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1600
+      "gjennomsnittlig_skatt_2024": 1600,
+      "code": "0728",
+      "befolkning": 0
     },
     {
       "name": "Larvik",
@@ -1963,7 +2203,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "3909",
+      "befolkning": 48870
     },
     {
       "name": "Lavangen",
@@ -1979,7 +2221,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2600
+      "gjennomsnittlig_skatt_2024": 2600,
+      "code": "5518",
+      "befolkning": 985
     },
     {
       "name": "Lebesby",
@@ -1995,7 +2239,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5624",
+      "befolkning": 1238
     },
     {
       "name": "Leka",
@@ -2011,7 +2257,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "5052",
+      "befolkning": 593
     },
     {
       "name": "Leksvik",
@@ -2027,7 +2275,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3467
+      "gjennomsnittlig_skatt_2024": 3467,
+      "code": "1718",
+      "befolkning": 0
     },
     {
       "name": "Lenvik",
@@ -2043,7 +2293,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2533
+      "gjennomsnittlig_skatt_2024": 2533,
+      "code": "1931",
+      "befolkning": 0
     },
     {
       "name": "Levanger",
@@ -2059,7 +2311,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2600
+      "gjennomsnittlig_skatt_2024": 2600,
+      "code": "5037",
+      "befolkning": 20732
     },
     {
       "name": "Lier",
@@ -2075,7 +2329,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2000
+      "gjennomsnittlig_skatt_2024": 2000,
+      "code": "3312",
+      "befolkning": 28642
     },
     {
       "name": "Lierne",
@@ -2091,7 +2347,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "5042",
+      "befolkning": 1316
     },
     {
       "name": "Lillehammer",
@@ -2107,7 +2365,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 3267
+      "gjennomsnittlig_skatt_2024": 3267,
+      "code": "3405",
+      "befolkning": 29011
     },
     {
       "name": "Lillesand",
@@ -2123,7 +2383,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 5333
+      "gjennomsnittlig_skatt_2024": 5333,
+      "code": "4215",
+      "befolkning": 11734
     },
     {
       "name": "Lillestrøm",
@@ -2139,7 +2401,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1333
+      "gjennomsnittlig_skatt_2024": 1333,
+      "code": "3205",
+      "befolkning": 95762
     },
     {
       "name": "Lindesnes",
@@ -2155,7 +2419,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4933
+      "gjennomsnittlig_skatt_2024": 4933,
+      "code": "4205",
+      "befolkning": 23768
     },
     {
       "name": "Lom",
@@ -2171,7 +2437,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3434",
+      "befolkning": 2215
     },
     {
       "name": "Loppa",
@@ -2187,7 +2455,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5614",
+      "befolkning": 864
     },
     {
       "name": "Los",
@@ -2203,7 +2473,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "3430",
+      "befolkning": 1895
     },
     {
       "name": "Lund",
@@ -2219,7 +2491,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "1112",
+      "befolkning": 3259
     },
     {
       "name": "Lunner",
@@ -2235,7 +2509,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2467
+      "gjennomsnittlig_skatt_2024": 2467,
+      "code": "3234",
+      "befolkning": 9420
     },
     {
       "name": "Lurøy",
@@ -2251,7 +2527,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3067
+      "gjennomsnittlig_skatt_2024": 3067,
+      "code": "1834",
+      "befolkning": 1948
     },
     {
       "name": "Luster",
@@ -2267,7 +2545,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3333
+      "gjennomsnittlig_skatt_2024": 3333,
+      "code": "4644",
+      "befolkning": 5432
     },
     {
       "name": "Lærdal",
@@ -2283,7 +2563,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3333
+      "gjennomsnittlig_skatt_2024": 3333,
+      "code": "4642",
+      "befolkning": 2188
     },
     {
       "name": "Lørenskog",
@@ -2299,7 +2581,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1333
+      "gjennomsnittlig_skatt_2024": 1333,
+      "code": "3222",
+      "befolkning": 50013
     },
     {
       "name": "Løten",
@@ -2315,7 +2599,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2900
+      "gjennomsnittlig_skatt_2024": 2900,
+      "code": "3412",
+      "befolkning": 7931
     },
     {
       "name": "Malvik",
@@ -2331,7 +2617,9 @@
       "fritak_aar": 3,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "5031",
+      "befolkning": 15023
     },
     {
       "name": "Marker",
@@ -2347,7 +2635,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4238
+      "gjennomsnittlig_skatt_2024": 4238,
+      "code": "3122",
+      "befolkning": 3655
     },
     {
       "name": "Marnardal",
@@ -2363,7 +2653,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "1021",
+      "befolkning": 0
     },
     {
       "name": "Masfjorden",
@@ -2379,7 +2671,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3333
+      "gjennomsnittlig_skatt_2024": 3333,
+      "code": "4634",
+      "befolkning": 1687
     },
     {
       "name": "Melhus",
@@ -2395,7 +2689,9 @@
       "fritak_aar": 3,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "5028",
+      "befolkning": 17812
     },
     {
       "name": "Meløy",
@@ -2411,7 +2707,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3067
+      "gjennomsnittlig_skatt_2024": 3067,
+      "code": "1837",
+      "befolkning": 6104
     },
     {
       "name": "Meråker",
@@ -2427,7 +2725,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "5034",
+      "befolkning": 2472
     },
     {
       "name": "Midtre Gauldal",
@@ -2443,7 +2743,9 @@
       "fritak_aar": 3,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "5027",
+      "befolkning": 6141
     },
     {
       "name": "Modalen",
@@ -2459,7 +2761,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3333
+      "gjennomsnittlig_skatt_2024": 3333,
+      "code": "4629",
+      "befolkning": 392
     },
     {
       "name": "Modum",
@@ -2475,7 +2779,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "3316",
+      "befolkning": 14664
     },
     {
       "name": "Molde",
@@ -2491,7 +2797,9 @@
       "fritak_aar": 2,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "1506",
+      "befolkning": 33163
     },
     {
       "name": "Moss",
@@ -2507,7 +2815,9 @@
       "fritak_aar": 3,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3000
+      "gjennomsnittlig_skatt_2024": 3000,
+      "code": "3103",
+      "befolkning": 52646
     },
     {
       "name": "Målselv",
@@ -2523,7 +2833,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 1900
+      "gjennomsnittlig_skatt_2024": 1900,
+      "code": "5524",
+      "befolkning": 6794
     },
     {
       "name": "Måsøy",
@@ -2539,7 +2851,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5618",
+      "befolkning": 1098
     },
     {
       "name": "Namdalseid",
@@ -2555,7 +2869,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2767
+      "gjennomsnittlig_skatt_2024": 2767,
+      "code": "5040",
+      "befolkning": 0
     },
     {
       "name": "Nannestad",
@@ -2571,7 +2887,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2467
+      "gjennomsnittlig_skatt_2024": 2467,
+      "code": "3238",
+      "befolkning": 16505
     },
     {
       "name": "Narvik",
@@ -2587,7 +2905,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4267
+      "gjennomsnittlig_skatt_2024": 4267,
+      "code": "1806",
+      "befolkning": 21591
     },
     {
       "name": "Nesbyen",
@@ -2603,7 +2923,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 1400
+      "gjennomsnittlig_skatt_2024": 1400,
+      "code": "3322",
+      "befolkning": 3266
     },
     {
       "name": "Nesna",
@@ -2619,7 +2941,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3067
+      "gjennomsnittlig_skatt_2024": 3067,
+      "code": "1828",
+      "befolkning": 1770
     },
     {
       "name": "Nesodden",
@@ -2635,7 +2959,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1333
+      "gjennomsnittlig_skatt_2024": 1333,
+      "code": "3212",
+      "befolkning": 20698
     },
     {
       "name": "Nesseby",
@@ -2651,7 +2977,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5636",
+      "befolkning": 868
     },
     {
       "name": "Nittedal",
@@ -2667,7 +2995,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1333
+      "gjennomsnittlig_skatt_2024": 1333,
+      "code": "3232",
+      "befolkning": 26023
     },
     {
       "name": "Nord-Aurdal",
@@ -2683,7 +3013,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3451",
+      "befolkning": 6455
     },
     {
       "name": "Nord-Fron",
@@ -2699,7 +3031,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3436",
+      "befolkning": 5553
     },
     {
       "name": "Nord-Odal",
@@ -2715,7 +3049,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2900
+      "gjennomsnittlig_skatt_2024": 2900,
+      "code": "3414",
+      "befolkning": 5006
     },
     {
       "name": "Nordkapp",
@@ -2731,7 +3067,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5620",
+      "befolkning": 2956
     },
     {
       "name": "Nordre Follo",
@@ -2747,7 +3085,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1333
+      "gjennomsnittlig_skatt_2024": 1333,
+      "code": "3207",
+      "befolkning": 64668
     },
     {
       "name": "Nordreisa",
@@ -2763,7 +3103,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2167
+      "gjennomsnittlig_skatt_2024": 2167,
+      "code": "5544",
+      "befolkning": 4810
     },
     {
       "name": "Notodden",
@@ -2779,7 +3121,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3633
+      "gjennomsnittlig_skatt_2024": 3633,
+      "code": "4005",
+      "befolkning": 13333
     },
     {
       "name": "Nærøysund",
@@ -2795,7 +3139,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2767
+      "gjennomsnittlig_skatt_2024": 2767,
+      "code": "5060",
+      "befolkning": 9921
     },
     {
       "name": "Nøtterøy",
@@ -2811,7 +3157,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1600
+      "gjennomsnittlig_skatt_2024": 1600,
+      "code": "0722",
+      "befolkning": 0
     },
     {
       "name": "Odda",
@@ -2827,7 +3175,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "1228",
+      "befolkning": 0
     },
     {
       "name": "Oppdal",
@@ -2843,7 +3193,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 1933
+      "gjennomsnittlig_skatt_2024": 1933,
+      "code": "5021",
+      "befolkning": 7408
     },
     {
       "name": "Oppegård",
@@ -2859,7 +3211,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1333
+      "gjennomsnittlig_skatt_2024": 1333,
+      "code": "0217",
+      "befolkning": 0
     },
     {
       "name": "Orkland",
@@ -2875,7 +3229,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2200
+      "gjennomsnittlig_skatt_2024": 2200,
+      "code": "5059",
+      "befolkning": 18798
     },
     {
       "name": "Os (Innlandet)",
@@ -2891,7 +3247,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3430",
+      "befolkning": 1895
     },
     {
       "name": "Os (Vestland)",
@@ -2907,7 +3265,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "3430",
+      "befolkning": 1895
     },
     {
       "name": "Oslo",
@@ -2923,7 +3283,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "0301",
+      "befolkning": 724290
     },
     {
       "name": "Osterøy",
@@ -2939,7 +3301,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2400
+      "gjennomsnittlig_skatt_2024": 2400,
+      "code": "4630",
+      "befolkning": 8172
     },
     {
       "name": "Overhalla",
@@ -2955,7 +3319,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2767
+      "gjennomsnittlig_skatt_2024": 2767,
+      "code": "5047",
+      "befolkning": 3946
     },
     {
       "name": "Porsanger",
@@ -2971,7 +3337,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5622",
+      "befolkning": 3896
     },
     {
       "name": "Porsgrunn",
@@ -2987,7 +3355,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4250
+      "gjennomsnittlig_skatt_2024": 4250,
+      "code": "4001",
+      "befolkning": 37289
     },
     {
       "name": "Rade",
@@ -3003,7 +3373,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1600
+      "gjennomsnittlig_skatt_2024": 1600,
+      "code": "3112",
+      "befolkning": 7850
     },
     {
       "name": "Rana",
@@ -3019,7 +3391,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4267
+      "gjennomsnittlig_skatt_2024": 4267,
+      "code": "1833",
+      "befolkning": 25927
     },
     {
       "name": "Randaberg",
@@ -3035,7 +3409,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "1127",
+      "befolkning": 11795
     },
     {
       "name": "Reidand",
@@ -3051,7 +3427,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "0716",
+      "befolkning": 0
     },
     {
       "name": "Rennebu",
@@ -3067,7 +3445,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "5022",
+      "befolkning": 2513
     },
     {
       "name": "Rindal",
@@ -3083,7 +3463,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "5061",
+      "befolkning": 1937
     },
     {
       "name": "Ringerike",
@@ -3099,7 +3481,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "3305",
+      "befolkning": 31793
     },
     {
       "name": "Ringsaker",
@@ -3115,7 +3499,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2900
+      "gjennomsnittlig_skatt_2024": 2900,
+      "code": "3411",
+      "befolkning": 35911
     },
     {
       "name": "Risør",
@@ -3131,7 +3517,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 5333
+      "gjennomsnittlig_skatt_2024": 5333,
+      "code": "4201",
+      "befolkning": 6687
     },
     {
       "name": "Rollag",
@@ -3147,7 +3535,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3633
+      "gjennomsnittlig_skatt_2024": 3633,
+      "code": "3336",
+      "befolkning": 1414
     },
     {
       "name": "Råde",
@@ -3163,7 +3553,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1600
+      "gjennomsnittlig_skatt_2024": 1600,
+      "code": "3112",
+      "befolkning": 7850
     },
     {
       "name": "Rælingen",
@@ -3179,7 +3571,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "3224",
+      "befolkning": 20509
     },
     {
       "name": "Rømskog",
@@ -3195,7 +3589,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 3533
+      "gjennomsnittlig_skatt_2024": 3533,
+      "code": "0121",
+      "befolkning": 0
     },
     {
       "name": "Røros",
@@ -3211,7 +3607,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2867
+      "gjennomsnittlig_skatt_2024": 2867,
+      "code": "5025",
+      "befolkning": 5681
     },
     {
       "name": "Røst",
@@ -3227,7 +3625,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4333
+      "gjennomsnittlig_skatt_2024": 4333,
+      "code": "1856",
+      "befolkning": 458
     },
     {
       "name": "Røyken",
@@ -3243,7 +3643,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2000
+      "gjennomsnittlig_skatt_2024": 2000,
+      "code": "0627",
+      "befolkning": 0
     },
     {
       "name": "Salangen",
@@ -3259,7 +3661,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2600
+      "gjennomsnittlig_skatt_2024": 2600,
+      "code": "5522",
+      "befolkning": 2116
     },
     {
       "name": "Saltdal",
@@ -3275,7 +3679,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3067
+      "gjennomsnittlig_skatt_2024": 3067,
+      "code": "1840",
+      "befolkning": 4822
     },
     {
       "name": "Samnanger",
@@ -3291,7 +3697,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2400
+      "gjennomsnittlig_skatt_2024": 2400,
+      "code": "4623",
+      "befolkning": 2491
     },
     {
       "name": "Sande",
@@ -3307,7 +3715,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "1514",
+      "befolkning": 2435
     },
     {
       "name": "Sandefjord",
@@ -3323,7 +3733,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1600
+      "gjennomsnittlig_skatt_2024": 1600,
+      "code": "3907",
+      "befolkning": 66758
     },
     {
       "name": "Sandnes",
@@ -3339,7 +3751,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "1108",
+      "befolkning": 84908
     },
     {
       "name": "Sandøy",
@@ -3355,7 +3769,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1533
+      "gjennomsnittlig_skatt_2024": 1533,
+      "code": "1546",
+      "befolkning": 0
     },
     {
       "name": "Sarpsborg",
@@ -3371,7 +3787,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3200
+      "gjennomsnittlig_skatt_2024": 3200,
+      "code": "3105",
+      "befolkning": 60139
     },
     {
       "name": "Sauda",
@@ -3387,7 +3805,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2133
+      "gjennomsnittlig_skatt_2024": 2133,
+      "code": "1135",
+      "befolkning": 4600
     },
     {
       "name": "Sel",
@@ -3403,7 +3823,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3437",
+      "befolkning": 5623
     },
     {
       "name": "Selbu",
@@ -3419,7 +3841,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "5032",
+      "befolkning": 4233
     },
     {
       "name": "Selje",
@@ -3435,7 +3859,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "1441",
+      "befolkning": 0
     },
     {
       "name": "Senja",
@@ -3451,7 +3877,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2533
+      "gjennomsnittlig_skatt_2024": 2533,
+      "code": "5530",
+      "befolkning": 14948
     },
     {
       "name": "Sigdal",
@@ -3467,7 +3895,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "3332",
+      "befolkning": 3530
     },
     {
       "name": "Siljan",
@@ -3483,7 +3913,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3633
+      "gjennomsnittlig_skatt_2024": 3633,
+      "code": "4010",
+      "befolkning": 2389
     },
     {
       "name": "Sirdal",
@@ -3499,7 +3931,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "4228",
+      "befolkning": 1902
     },
     {
       "name": "Skaun",
@@ -3515,7 +3949,9 @@
       "fritak_aar": 3,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "5029",
+      "befolkning": 8521
     },
     {
       "name": "Skien",
@@ -3531,7 +3967,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4250
+      "gjennomsnittlig_skatt_2024": 4250,
+      "code": "4003",
+      "befolkning": 56866
     },
     {
       "name": "Skiptvet",
@@ -3547,7 +3985,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4238
+      "gjennomsnittlig_skatt_2024": 4238,
+      "code": "3116",
+      "befolkning": 3956
     },
     {
       "name": "Skjervøy",
@@ -3563,7 +4003,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2533
+      "gjennomsnittlig_skatt_2024": 2533,
+      "code": "5542",
+      "befolkning": 2784
     },
     {
       "name": "Skjåk",
@@ -3579,7 +4021,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3433",
+      "befolkning": 2179
     },
     {
       "name": "Skodje",
@@ -3595,7 +4039,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1533
+      "gjennomsnittlig_skatt_2024": 1533,
+      "code": "1529",
+      "befolkning": 0
     },
     {
       "name": "Smøla",
@@ -3611,7 +4057,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1467
+      "gjennomsnittlig_skatt_2024": 1467,
+      "code": "1573",
+      "befolkning": 2168
     },
     {
       "name": "Snåsa",
@@ -3627,7 +4075,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "5041",
+      "befolkning": 2138
     },
     {
       "name": "Sogndal",
@@ -3643,7 +4093,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3200
+      "gjennomsnittlig_skatt_2024": 3200,
+      "code": "4640",
+      "befolkning": 12496
     },
     {
       "name": "Sokndal",
@@ -3659,7 +4111,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2133
+      "gjennomsnittlig_skatt_2024": 2133,
+      "code": "1111",
+      "befolkning": 3371
     },
     {
       "name": "Sola",
@@ -3675,7 +4129,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "1124",
+      "befolkning": 29153
     },
     {
       "name": "Solund",
@@ -3691,7 +4147,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4333
+      "gjennomsnittlig_skatt_2024": 4333,
+      "code": "4636",
+      "befolkning": 740
     },
     {
       "name": "Sortland",
@@ -3707,7 +4165,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4333
+      "gjennomsnittlig_skatt_2024": 4333,
+      "code": "1870",
+      "befolkning": 10781
     },
     {
       "name": "Stad",
@@ -3723,7 +4183,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "4649",
+      "befolkning": 9655
     },
     {
       "name": "Stange",
@@ -3739,7 +4201,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2900
+      "gjennomsnittlig_skatt_2024": 2900,
+      "code": "3413",
+      "befolkning": 21691
     },
     {
       "name": "Stavanger",
@@ -3755,7 +4219,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3467
+      "gjennomsnittlig_skatt_2024": 3467,
+      "code": "1103",
+      "befolkning": 150123
     },
     {
       "name": "Steigen",
@@ -3771,7 +4237,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3067
+      "gjennomsnittlig_skatt_2024": 3067,
+      "code": "1848",
+      "befolkning": 2662
     },
     {
       "name": "Steinkjer",
@@ -3787,7 +4255,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "5006",
+      "befolkning": 24064
     },
     {
       "name": "Stjørdal",
@@ -3803,7 +4273,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2667
+      "gjennomsnittlig_skatt_2024": 2667,
+      "code": "5035",
+      "befolkning": 24927
     },
     {
       "name": "Stokke",
@@ -3819,7 +4291,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1600
+      "gjennomsnittlig_skatt_2024": 1600,
+      "code": "0720",
+      "befolkning": 0
     },
     {
       "name": "Stor-Elvdal",
@@ -3835,7 +4309,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3423",
+      "befolkning": 2250
     },
     {
       "name": "Storfjord",
@@ -3851,7 +4327,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2167
+      "gjennomsnittlig_skatt_2024": 2167,
+      "code": "5538",
+      "befolkning": 1829
     },
     {
       "name": "Strand",
@@ -3867,7 +4345,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "1130",
+      "befolkning": 13813
     },
     {
       "name": "Stranda",
@@ -3883,7 +4363,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1400
+      "gjennomsnittlig_skatt_2024": 1400,
+      "code": "1525",
+      "befolkning": 4380
     },
     {
       "name": "Stryn",
@@ -3899,7 +4381,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3200
+      "gjennomsnittlig_skatt_2024": 3200,
+      "code": "4651",
+      "befolkning": 7311
     },
     {
       "name": "Suldal",
@@ -3915,7 +4399,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2133
+      "gjennomsnittlig_skatt_2024": 2133,
+      "code": "1134",
+      "befolkning": 3939
     },
     {
       "name": "Sunnfjord",
@@ -3931,7 +4417,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "4647",
+      "befolkning": 22662
     },
     {
       "name": "Surnadal",
@@ -3947,7 +4435,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1467
+      "gjennomsnittlig_skatt_2024": 1467,
+      "code": "1566",
+      "befolkning": 5950
     },
     {
       "name": "Sveio",
@@ -3963,7 +4453,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "4612",
+      "befolkning": 5752
     },
     {
       "name": "Sykkylven",
@@ -3979,7 +4471,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1400
+      "gjennomsnittlig_skatt_2024": 1400,
+      "code": "1528",
+      "befolkning": 7626
     },
     {
       "name": "Søndre Land",
@@ -3995,7 +4489,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "3447",
+      "befolkning": 5597
     },
     {
       "name": "Sør-Aurdal",
@@ -4011,7 +4507,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3449",
+      "befolkning": 2822
     },
     {
       "name": "Sør-Fron",
@@ -4027,7 +4525,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3438",
+      "befolkning": 3128
     },
     {
       "name": "Sør-Odal",
@@ -4043,7 +4543,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2900
+      "gjennomsnittlig_skatt_2024": 2900,
+      "code": "3415",
+      "befolkning": 8150
     },
     {
       "name": "Sør-Varanger",
@@ -4059,7 +4561,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4533
+      "gjennomsnittlig_skatt_2024": 4533,
+      "code": "5605",
+      "befolkning": 9963
     },
     {
       "name": "Søreide",
@@ -4075,7 +4579,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "0716",
+      "befolkning": 0
     },
     {
       "name": "Sørfold",
@@ -4091,7 +4597,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3067
+      "gjennomsnittlig_skatt_2024": 3067,
+      "code": "1845",
+      "befolkning": 1851
     },
     {
       "name": "Sørreisa",
@@ -4107,7 +4615,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2167
+      "gjennomsnittlig_skatt_2024": 2167,
+      "code": "5526",
+      "befolkning": 3533
     },
     {
       "name": "Tana",
@@ -4123,7 +4633,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5628",
+      "befolkning": 2798
     },
     {
       "name": "Time",
@@ -4139,7 +4651,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "1121",
+      "befolkning": 20157
     },
     {
       "name": "Tingvoll",
@@ -4155,7 +4669,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1467
+      "gjennomsnittlig_skatt_2024": 1467,
+      "code": "1560",
+      "befolkning": 3077
     },
     {
       "name": "Tinn",
@@ -4171,7 +4687,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3633
+      "gjennomsnittlig_skatt_2024": 3633,
+      "code": "4026",
+      "befolkning": 5529
     },
     {
       "name": "Tjeldsund",
@@ -4187,7 +4705,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2600
+      "gjennomsnittlig_skatt_2024": 2600,
+      "code": "5512",
+      "befolkning": 4209
     },
     {
       "name": "Tokke",
@@ -4203,7 +4723,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3633
+      "gjennomsnittlig_skatt_2024": 3633,
+      "code": "4034",
+      "befolkning": 2238
     },
     {
       "name": "Tolga",
@@ -4219,7 +4741,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "3426",
+      "befolkning": 1606
     },
     {
       "name": "Torsken",
@@ -4235,7 +4759,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2533
+      "gjennomsnittlig_skatt_2024": 2533,
+      "code": "1928",
+      "befolkning": 0
     },
     {
       "name": "Tranøy",
@@ -4251,7 +4777,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2600
+      "gjennomsnittlig_skatt_2024": 2600,
+      "code": "1927",
+      "befolkning": 0
     },
     {
       "name": "Tromsø",
@@ -4267,7 +4795,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4533
+      "gjennomsnittlig_skatt_2024": 4533,
+      "code": "5501",
+      "befolkning": 79421
     },
     {
       "name": "Trondheim",
@@ -4283,7 +4813,9 @@
       "fritak_aar": 3,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "5001",
+      "befolkning": 216518
     },
     {
       "name": "Trysil",
@@ -4299,7 +4831,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3000
+      "gjennomsnittlig_skatt_2024": 3000,
+      "code": "3421",
+      "befolkning": 6542
     },
     {
       "name": "Træna",
@@ -4315,7 +4849,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3067
+      "gjennomsnittlig_skatt_2024": 3067,
+      "code": "1835",
+      "befolkning": 463
     },
     {
       "name": "Tustna",
@@ -4331,7 +4867,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1467
+      "gjennomsnittlig_skatt_2024": 1467,
+      "code": "1572",
+      "befolkning": 0
     },
     {
       "name": "Tvedestrand",
@@ -4347,7 +4885,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 5333
+      "gjennomsnittlig_skatt_2024": 5333,
+      "code": "4213",
+      "befolkning": 6464
     },
     {
       "name": "Tydal",
@@ -4363,7 +4903,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "5033",
+      "befolkning": 786
     },
     {
       "name": "Tynset",
@@ -4379,7 +4921,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "3427",
+      "befolkning": 5722
     },
     {
       "name": "Tysfjord",
@@ -4395,7 +4939,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3067
+      "gjennomsnittlig_skatt_2024": 3067,
+      "code": "1850",
+      "befolkning": 0
     },
     {
       "name": "Tysnes",
@@ -4411,7 +4957,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "4616",
+      "befolkning": 2986
     },
     {
       "name": "Tønsberg",
@@ -4427,7 +4975,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1600
+      "gjennomsnittlig_skatt_2024": 1600,
+      "code": "3905",
+      "befolkning": 59830
     },
     {
       "name": "Ullensaker",
@@ -4443,7 +4993,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2467
+      "gjennomsnittlig_skatt_2024": 2467,
+      "code": "3209",
+      "befolkning": 45066
     },
     {
       "name": "Ullensvang",
@@ -4459,7 +5011,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3200
+      "gjennomsnittlig_skatt_2024": 3200,
+      "code": "4618",
+      "befolkning": 10981
     },
     {
       "name": "Ulstein",
@@ -4475,7 +5029,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1400
+      "gjennomsnittlig_skatt_2024": 1400,
+      "code": "1516",
+      "befolkning": 8862
     },
     {
       "name": "Ulvik",
@@ -4491,7 +5047,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "4620",
+      "befolkning": 1100
     },
     {
       "name": "Utsira",
@@ -4507,7 +5065,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4000
+      "gjennomsnittlig_skatt_2024": 4000,
+      "code": "1151",
+      "befolkning": 217
     },
     {
       "name": "Uvdal",
@@ -4523,7 +5083,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3633
+      "gjennomsnittlig_skatt_2024": 3633,
+      "code": "3338",
+      "befolkning": 2466
     },
     {
       "name": "Vadsø",
@@ -4539,7 +5101,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5607",
+      "befolkning": 5777
     },
     {
       "name": "Vaksdal",
@@ -4555,7 +5119,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2400
+      "gjennomsnittlig_skatt_2024": 2400,
+      "code": "4628",
+      "befolkning": 3875
     },
     {
       "name": "Valle",
@@ -4571,7 +5137,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "4221",
+      "befolkning": 1205
     },
     {
       "name": "Vang",
@@ -4587,7 +5155,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3454",
+      "befolkning": 1648
     },
     {
       "name": "Vanylven",
@@ -4603,7 +5173,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1400
+      "gjennomsnittlig_skatt_2024": 1400,
+      "code": "1511",
+      "befolkning": 3048
     },
     {
       "name": "Vardø",
@@ -4619,7 +5191,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5634",
+      "befolkning": 1982
     },
     {
       "name": "Vefsn",
@@ -4635,7 +5209,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3067
+      "gjennomsnittlig_skatt_2024": 3067,
+      "code": "1824",
+      "befolkning": 13475
     },
     {
       "name": "Vega",
@@ -4651,7 +5227,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "1815",
+      "befolkning": 1207
     },
     {
       "name": "Vestby",
@@ -4667,7 +5245,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1333
+      "gjennomsnittlig_skatt_2024": 1333,
+      "code": "3216",
+      "befolkning": 19855
     },
     {
       "name": "Vestfold",
@@ -4683,7 +5263,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1600
+      "gjennomsnittlig_skatt_2024": 1600,
+      "code": "0799",
+      "befolkning": 0
     },
     {
       "name": "Vestnes",
@@ -4699,7 +5281,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1533
+      "gjennomsnittlig_skatt_2024": 1533,
+      "code": "1535",
+      "befolkning": 7242
     },
     {
       "name": "Vestre Slidre",
@@ -4715,7 +5299,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3452",
+      "befolkning": 2142
     },
     {
       "name": "Vestre Toten",
@@ -4731,7 +5317,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2900
+      "gjennomsnittlig_skatt_2024": 2900,
+      "code": "3443",
+      "befolkning": 13649
     },
     {
       "name": "Vestvågøy",
@@ -4747,7 +5335,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4333
+      "gjennomsnittlig_skatt_2024": 4333,
+      "code": "1860",
+      "befolkning": 11582
     },
     {
       "name": "Vevelstad",
@@ -4763,7 +5353,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "1816",
+      "befolkning": 470
     },
     {
       "name": "Vik",
@@ -4779,7 +5371,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3333
+      "gjennomsnittlig_skatt_2024": 3333,
+      "code": "4639",
+      "befolkning": 2550
     },
     {
       "name": "Vindafjord",
@@ -4795,7 +5389,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2133
+      "gjennomsnittlig_skatt_2024": 2133,
+      "code": "1160",
+      "befolkning": 9069
     },
     {
       "name": "Vinje",
@@ -4811,7 +5407,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3633
+      "gjennomsnittlig_skatt_2024": 3633,
+      "code": "4036",
+      "befolkning": 3861
     },
     {
       "name": "Volda",
@@ -4827,7 +5425,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1400
+      "gjennomsnittlig_skatt_2024": 1400,
+      "code": "1577",
+      "befolkning": 11131
     },
     {
       "name": "Voss",
@@ -4843,7 +5443,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2667
+      "gjennomsnittlig_skatt_2024": 2667,
+      "code": "4621",
+      "befolkning": 16436
     },
     {
       "name": "Vågan",
@@ -4859,7 +5461,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4333
+      "gjennomsnittlig_skatt_2024": 4333,
+      "code": "1865",
+      "befolkning": 9871
     },
     {
       "name": "Vågsøy",
@@ -4875,7 +5479,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 3867
+      "gjennomsnittlig_skatt_2024": 3867,
+      "code": "1439",
+      "befolkning": 0
     },
     {
       "name": "Vågå",
@@ -4891,7 +5497,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2733
+      "gjennomsnittlig_skatt_2024": 2733,
+      "code": "3435",
+      "befolkning": 3529
     },
     {
       "name": "Værøy",
@@ -4907,7 +5515,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4333
+      "gjennomsnittlig_skatt_2024": 4333,
+      "code": "1857",
+      "befolkning": 677
     },
     {
       "name": "Åfjord",
@@ -4923,7 +5533,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "5058",
+      "befolkning": 4342
     },
     {
       "name": "Ål",
@@ -4939,7 +5551,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 1694
+      "gjennomsnittlig_skatt_2024": 1694,
+      "code": "3328",
+      "befolkning": 4835
     },
     {
       "name": "Ålesund",
@@ -4955,7 +5569,9 @@
       "fritak_aar": 2,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 6092
+      "gjennomsnittlig_skatt_2024": 6092,
+      "code": "1508",
+      "befolkning": 59198
     },
     {
       "name": "Åmli",
@@ -4971,7 +5587,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "4217",
+      "befolkning": 1778
     },
     {
       "name": "Åmot",
@@ -4987,7 +5605,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 4113
+      "gjennomsnittlig_skatt_2024": 4113,
+      "code": "3422",
+      "befolkning": 4205
     },
     {
       "name": "Årdal",
@@ -5003,7 +5623,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2900
+      "gjennomsnittlig_skatt_2024": 2900,
+      "code": "4643",
+      "befolkning": 5213
     },
     {
       "name": "Ås",
@@ -5019,7 +5641,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 6000
+      "gjennomsnittlig_skatt_2024": 6000,
+      "code": "3218",
+      "befolkning": 22344
     },
     {
       "name": "Åseral",
@@ -5035,7 +5659,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "4224",
+      "befolkning": 915
     },
     {
       "name": "Åsnes",
@@ -5051,7 +5677,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "3418",
+      "befolkning": 7247
     },
     {
       "name": "Øksnes",
@@ -5067,7 +5695,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 4333
+      "gjennomsnittlig_skatt_2024": 4333,
+      "code": "1868",
+      "befolkning": 4628
     },
     {
       "name": "Ørland",
@@ -5083,7 +5713,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1467
+      "gjennomsnittlig_skatt_2024": 1467,
+      "code": "5057",
+      "befolkning": 10627
     },
     {
       "name": "Ørskog",
@@ -5099,7 +5731,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1533
+      "gjennomsnittlig_skatt_2024": 1533,
+      "code": "1523",
+      "befolkning": 0
     },
     {
       "name": "Ørsta",
@@ -5115,7 +5749,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 1400
+      "gjennomsnittlig_skatt_2024": 1400,
+      "code": "1520",
+      "befolkning": 11055
     },
     {
       "name": "Østre Toten",
@@ -5131,7 +5767,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": true,
-      "gjennomsnittlig_skatt_2024": 2900
+      "gjennomsnittlig_skatt_2024": 2900,
+      "code": "3442",
+      "befolkning": 14827
     },
     {
       "name": "Øvre Eiker",
@@ -5147,7 +5785,9 @@
       "fritak_aar": 5,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2800
+      "gjennomsnittlig_skatt_2024": 2800,
+      "code": "3314",
+      "befolkning": 20861
     },
     {
       "name": "Øygarden",
@@ -5163,7 +5803,9 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": false,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 0
+      "gjennomsnittlig_skatt_2024": 0,
+      "code": "4626",
+      "befolkning": 40105
     },
     {
       "name": "Øystre Slidre",
@@ -5179,8 +5821,11 @@
       "fritak_aar": 0,
       "eiendomsskattefritak_historiske": true,
       "formuesgrunnlag": false,
-      "gjennomsnittlig_skatt_2024": 2726
+      "gjennomsnittlig_skatt_2024": 2726,
+      "code": "3453",
+      "befolkning": 3311
     }
   ],
-  "municipalities_without_property_tax": 32
+  "municipalities_without_property_tax": 32,
+  "population_source": "SSB table 11342, year 2025"
 }
